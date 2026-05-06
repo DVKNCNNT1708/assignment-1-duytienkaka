@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
+- Họ tên: Phạm Đức Duy Tiến
+- Mã sinh viên: 1771020663
+- Nhóm: B4
+- Vai trò dự kiến trong nhóm: Thành viên
+- Hệ điều hành: Windows
 - Ghi chú:
 
 ## Các file minh chứng nên có
